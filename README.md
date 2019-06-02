@@ -11,9 +11,9 @@
 
 ### STEPs:
 
-**1. '$sudo apt-get update'**<br/>
-**   '$sudo apt-get intall python-picamera python3-picamera'**<br/>
-**   or'$sudo pip install picamera'**<br/>
+**1. `$sudo apt-get update`**<br/>
+**   `$sudo apt-get intall python-picamera python3-picamera`**<br/>
+**   or`$sudo pip install picamera`**<br/>
 
 **2. Create a python program "pi3_picamera.py"**
 
@@ -25,9 +25,9 @@
 ### Reference:
 
 **1.[How To Send A Captured Image Through Email Using Raspberry Pi, Pi Camera, And Python](https://www.c-sharpcorner.com/article/how-to-send-the-captured-an-image-through-the-mail-using-raspberry-pi-and-python/)
-<br/>
+**<br/>
 **2.[picamera__official website](https://picamera.readthedocs.io/en/release-1.10/api_camera.html)
-<br/>
+**<br/>
 **3.[HOW TO STREAM THE PICAMERA TO YOUR BROWSER](https://desertbot.io/blog/how-to-stream-the-picamera)
-<br/>
+**<br/>
 
